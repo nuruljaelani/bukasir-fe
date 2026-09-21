@@ -1,0 +1,13 @@
+{
+    "name": "bukasir-fe",
+    "compatibility_date": "2026-01-01",
+    "compatibility_flags": [
+        "nodejs_compat"
+    ],
+    "services": [
+        {
+            "binding": "WORKER_SELF_REFERENCE",
+            "service": "bukasir-fe"
+        }
+    ]
+}
